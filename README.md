@@ -1,7 +1,7 @@
 # Simple Travel Website
 
 
-# Showing code changes
+## Showing code changes
 
 - Both options are there (html files and images exist for both).
 
